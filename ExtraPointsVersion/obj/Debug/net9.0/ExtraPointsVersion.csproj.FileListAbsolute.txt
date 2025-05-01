@@ -1,0 +1,14 @@
+D:\Homework5\TinyMartApp\ExtraPointsVersion\bin\Debug\net9.0\ExtraPointsVersion.exe
+D:\Homework5\TinyMartApp\ExtraPointsVersion\bin\Debug\net9.0\ExtraPointsVersion.deps.json
+D:\Homework5\TinyMartApp\ExtraPointsVersion\bin\Debug\net9.0\ExtraPointsVersion.runtimeconfig.json
+D:\Homework5\TinyMartApp\ExtraPointsVersion\bin\Debug\net9.0\ExtraPointsVersion.dll
+D:\Homework5\TinyMartApp\ExtraPointsVersion\bin\Debug\net9.0\ExtraPointsVersion.pdb
+D:\Homework5\TinyMartApp\ExtraPointsVersion\obj\Debug\net9.0\ExtraPointsVersion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Homework5\TinyMartApp\ExtraPointsVersion\obj\Debug\net9.0\ExtraPointsVersion.AssemblyInfoInputs.cache
+D:\Homework5\TinyMartApp\ExtraPointsVersion\obj\Debug\net9.0\ExtraPointsVersion.AssemblyInfo.cs
+D:\Homework5\TinyMartApp\ExtraPointsVersion\obj\Debug\net9.0\ExtraPointsVersion.csproj.CoreCompileInputs.cache
+D:\Homework5\TinyMartApp\ExtraPointsVersion\obj\Debug\net9.0\ExtraPointsVersion.dll
+D:\Homework5\TinyMartApp\ExtraPointsVersion\obj\Debug\net9.0\refint\ExtraPointsVersion.dll
+D:\Homework5\TinyMartApp\ExtraPointsVersion\obj\Debug\net9.0\ExtraPointsVersion.pdb
+D:\Homework5\TinyMartApp\ExtraPointsVersion\obj\Debug\net9.0\ExtraPointsVersion.genruntimeconfig.cache
+D:\Homework5\TinyMartApp\ExtraPointsVersion\obj\Debug\net9.0\ref\ExtraPointsVersion.dll

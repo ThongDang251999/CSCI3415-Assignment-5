@@ -1,0 +1,5 @@
+Audio,Jazz Vibes,12.99,Ella Fitzgerald,Jazz,0
+Audio,Metal Storm,11,James Hetfield,Metal,0
+Video,Animated Joy,15.75,Hayao Miyazaki,2001,125,G,0
+Ebook,Digital Fortress,9.99,Dan Brown,350,0
+Paperbook,The Hobbit,17.25,J.R.R. Tolkien,310,0

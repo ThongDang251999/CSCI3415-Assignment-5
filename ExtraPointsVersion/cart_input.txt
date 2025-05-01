@@ -1,0 +1,5 @@
+Audio,Jazz Vibes,12.99,Ella Fitzgerald,Jazz,8.4
+Audio,Rock Anthem,14.50,Jim Morrison,Rock,9.1
+Video,SciFi Saga,19.99,George Lucas,1977,120,PG,8.5
+Ebook,Digital Fortress,9.99,Dan Brown,350,8.3
+Paperbook,The Hobbit,17.25,J.R.R. Tolkien,310,8.9

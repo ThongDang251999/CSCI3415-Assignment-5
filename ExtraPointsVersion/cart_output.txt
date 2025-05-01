@@ -1,0 +1,3 @@
+Audio,Jazz Vibes,12.99,Ella Fitzgerald,Jazz,8.4
+Ebook,Digital Fortress,9.99,Dan Brown,350,8.3
+Paperbook,The Hobbit,17.25,J.R.R. Tolkien,310,8.9
